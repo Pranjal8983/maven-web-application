@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Pranjal- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Ph No: +91-9980923226,+91-9014996877</h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps & Cloud, Python, Java & Node JS </h1>
+<h1 align="center">Welcome to My Session</h1>
+<h1 align="center"> I am going to explain ablut tomcat server. </h1>
 
-<h2> Trainer Name: Bhaskar  Reddy Lacchannagari</h2>
+<h2> Name : Pranjal Deka</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -36,21 +36,17 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli
-		Bangalore,
-		+91-9980923226,+91-9014996877
-		devopstrainingblr@gmail.com
+		pranjaldeka8983@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to Pranjal</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>This is a Development Center.</p>
+<p align=center><small>Copyrights 2025 by <a href="http://mithuntechnologies.com/">Bengaluru</a> </small></p>
 
 </body>
 </html>
